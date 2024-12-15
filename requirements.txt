@@ -1,0 +1,7 @@
+sqlalchemy
+psycopg2-binary
+numpy
+falcon
+prefect
+streamlit
+python-dotenv
